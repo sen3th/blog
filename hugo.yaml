@@ -1,6 +1,6 @@
 baseurl: "https://seneth.me/" 
 languageCode: "en-us"
-title: "seneth's"
+title: "myblog"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -13,7 +13,7 @@ permalinks:
 
 menu:
   main:
-    - name: Home
+    - name: home
       url: ""
       weight: 1
     - name: Tags
