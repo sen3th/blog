@@ -16,15 +16,15 @@ menu:
     - name: home
       url: ""
       weight: 1
-    - name: Tags
+    - name: tags
       url: "tags/"
       weight: 4
-    - name: Subscribe
+    - name: rss
       url: "index.xml"
 
 params:
   description: "personal blog"
-  footer: "&copy; Seneth | [Github](https://github.com/sen3th) | [Mail](mailto:hi@seneth.me)"
+  footer: "&copy; Seneth | [github](https://github.com/sen3th) | [mail](mailto:hi@seneth.me)"
 
 markup:
   highlight:
