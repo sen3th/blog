@@ -16,8 +16,8 @@ menu:
     - name: home
       url: ""
       weight: 1
-    - name: tags
-      url: "tags/"
+    - name: posts
+      url: "posts/"
       weight: 4
     - name: rss
       url: "index.xml"
